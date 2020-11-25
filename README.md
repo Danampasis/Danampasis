@@ -1,5 +1,5 @@
 ### Hi there <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px">
-
+<img src="https://i.imgur.com/K01sW02.gif" width="400px" height="300px">
 <!--
 **Danampasis/Danampasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
